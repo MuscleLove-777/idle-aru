@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>放置ゲーあるある図鑑</title>
+    <link>https://musclelove-777.github.io/idle-aru/</link>
+    <description>放置ゲーマーの心理・行動・生態をコラム形式で図鑑化。短文×イラスト風で「ライト勢→廃人」までのグラデーションを描く読み物メディア。</description>
+    <language>ja</language>
+    <lastBuildDate>Tue, 28 Apr 2026 22:32:31 +0900</lastBuildDate>
+    <atom:link href="https://musclelove-777.github.io/idle-aru//feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>放置ゲーム やめられない理由【廃人あるある図鑑】</title>
+      <link>https://musclelove-777.github.io/idle-aru//articles/idle-game-quit-reasons.html</link>
+      <guid>https://musclelove-777.github.io/idle-aru//articles/idle-game-quit-reasons.html</guid>
+      <description></description>
+      <category>廃人あるある</category>
+      <pubDate>Tue, 28 Apr 2026 00:00:00 +0900</pubDate>
+    </item>
+  </channel>
+</rss>
